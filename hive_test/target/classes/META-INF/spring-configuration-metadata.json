@@ -1,0 +1,115 @@
+{
+  "groups": [
+    {
+      "name": "hive",
+      "type": "com.spx.hive_test.config.HiveDruidConfig",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "hive.break-after-acquire-failure",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "hive.connection-error-retry-attempts",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig"
+    },
+    {
+      "name": "hive.initial-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.max-active",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.max-pool-prepared-statement-per-connection-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.max-wait",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.min-evictable-idle-time-millis",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.min-idle",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.password",
+      "type": "java.lang.String",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig"
+    },
+    {
+      "name": "hive.pool-prepared-statements",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "hive.test-on-borrow",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "hive.test-on-return",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "hive.test-while-idle",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "hive.time-between-eviction-runs-millis",
+      "type": "java.lang.Integer",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig",
+      "defaultValue": 0
+    },
+    {
+      "name": "hive.url",
+      "type": "java.lang.String",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig"
+    },
+    {
+      "name": "hive.user",
+      "type": "java.lang.String",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig"
+    },
+    {
+      "name": "hive.validation-query",
+      "type": "java.lang.String",
+      "sourceType": "com.spx.hive_test.config.HiveDruidConfig"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spx.hive_test.HiveTestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.985 s - in com.spx.hive_test.HiveTestApplicationTests
